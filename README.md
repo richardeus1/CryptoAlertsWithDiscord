@@ -33,13 +33,13 @@ in the terminal of webserver execute this:
 
 pip install -U discord.py
 
+Remember to modify DISCORD_BOT_TOKEN = "" and DISCORD_CHANNEL_ID = "" with your data on bot.py and in send_initial_message.py files
+
 You will need to execute only once this:
 
 send_initial_message.py
 
-take note of the id of the message that is displayed in terminal. you will copy that and paste it in DISCORD_MESSAGE_ID = "" under bot.py file
-
-also, remember to modify DISCORD_BOT_TOKEN = "" and DISCORD_CHANNEL_ID = "" with your data on bot.py and in send_initial_message.py files
+once you executed send_initial_message.py take note of the id of the message that is displayed in terminal. you will copy that and paste it in DISCORD_MESSAGE_ID = "" under bot.py file
 
 now you can execute it manually by doing in terminal:
 
