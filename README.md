@@ -1,6 +1,6 @@
 # CryptoAlertsWithDiscord
 
-This project what does is it will create a dashboard table in discord (in reality is a comment that will be edited/updated every minute or whatever time you want by using cron) and showing the price of some cryptos (BTC, XRP and AVAX) the first row of dashboard will be always the most updated row. Also show the RSI, SMA VWAP and give you the signal to buy, sell, p buy (probably buy), p sell (probably sell), sell ob (overbought), buy os (oversell).
+This project what does is it will create a dashboard table in discord (in reality is a comment that will be edited/updated every minute or whatever time you want by using cron) and showing the price of some cryptos (BTC, XRP and AVAX) The first row of dashboard will be always the most updated row. Also will be displaying the RSI, SMA VWAP and give you the signal to buy, sell, p buy (probably buy), p sell (probably sell), sell ob (overbought), buy os (oversell).
 
 Not only that, will also send a new message if buy or sell time, except during hold signal.
 
