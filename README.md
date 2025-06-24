@@ -35,6 +35,8 @@ send_initial_message.py
 
 take note of the id of the message that is displayed in terminal. you will copy that and paste it in DISCORD_MESSAGE_ID = "" under bot.py file
 
+also, remember to modify DISCORD_BOT_TOKEN = "" and DISCORD_CHANNEL_ID = "" with your data on bot.py and 
+
 now you can execute it manually by doing in terminal:
 
 python3 bot.py
