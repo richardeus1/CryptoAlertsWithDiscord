@@ -33,7 +33,7 @@ You will need to execute only once this:
 
 send_initial_message.py
 
-take note of the id of the message that is displayed in terminal. you will copy that and paste it in:
+take note of the id of the message that is displayed in terminal. you will copy that and paste it in DISCORD_MESSAGE_ID = "" under bot.py file
 
 now you can execute it manually by doing in terminal:
 
